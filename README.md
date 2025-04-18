@@ -1,14 +1,30 @@
-# MusicFrontend
+# 🎵 Music Practice Tracker
 
-This template should help get you started developing with Vue 3 in Vite.
+一個用 Vue.js 製作的音樂練習紀錄小工具，
+專為音樂人設計，簡單紀錄每週的練習狀況，
+畫面可愛、操作輕鬆，讓練習也變成一種療癒！
 
-## Recommended IDE Setup
+## 🧩 技術堆疊
+- Vue 3
+- Vite
+- Axios
+- Tailwind CSS（可選）
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## 🌟 功能特色
+- ✅ 每週練習天數勾選
+- 📝 支援練習筆記記錄
+- 📈 可串接後端儲存紀錄（MongoDB）
 
-## Customize configuration
+## 💻 畫面預覽
+（可放圖：可愛 UI 截圖！）
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+## 👩‍💻 開發者
+[你的 GitHub 名稱]｜[連結可選]
+
+## 📌 小提醒
+純前端作品，搭配後端 API 可儲存資料  
+目前為練習用途，之後將持續優化 ✨
+
 
 ## Project Setup
 
