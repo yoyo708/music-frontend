@@ -1,4 +1,4 @@
-# 🎵 Music Practice Tracker
+# 🎵 Music Practice Tracker｜音樂練習打卡板
 
 一個用 Vue.js 製作的音樂練習紀錄小工具，
 專為音樂人設計，簡單紀錄每週的練習狀況，
@@ -26,20 +26,14 @@
 目前為練習用途，之後將持續優化 ✨
 
 
-## Project Setup
+## 🚀 如何啟動專案（Project Setup）
 
-```sh
+```bash
+# 安裝專案依賴
 npm install
-```
 
-### Compile and Hot-Reload for Development
-
-```sh
+# 啟動本地開發伺服器（支援熱更新）
 npm run dev
-```
 
-### Compile and Minify for Production
-
-```sh
+# 打包部署用版本（產生 dist）
 npm run build
-```
